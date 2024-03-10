@@ -1,4 +1,4 @@
-const baseUrl = "https://group-chat-application-live.onrender.com/";
+const baseUrl = "https://group-chat-application-live.onrender.com";
 const signUpForm = document.getElementById("signUpForm");
 const msg = document.getElementById("message");
 
