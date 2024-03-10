@@ -1,4 +1,4 @@
-const baseUrl = "http://localhost:3000";
+const baseUrl = "https://group-chat-application-live.onrender.com";
 
 const loginForm = document.getElementById("loginForm");
 const msg = document.getElementById("message");
